@@ -16,11 +16,25 @@
 }
 
 #scoreBox{
-    background-color: white;
+    color: white;
     position: absolute;
     top: 9px;
-    right: 200px;
+    right: 459px;
     font-size: 39px;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive;
+}
+/*
+to modify poistion on site web : go to the site and inspect it
+go to Elements : select the div you want to modify 
+go to the window Styles / element.style{} and click on parameter to modify + (up or down arrow)
+*/
+#hiscoreBox{
+    color: white;
+    position: absolute;
+    top: 59px;
+    right: 120px;
+    font-size: 59px;
     font-weight: bold;
     font-family: 'Press Start 2P', cursive;
 }
