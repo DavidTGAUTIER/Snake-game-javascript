@@ -4,7 +4,7 @@
 }
 
 .body{
-    background: url("../background-image/images2.jpg");
+    background: url("../img/images2.jpg");
     min-height: 100vh;
 /*  background-size: 100vw 100vh;
     background-repeat: no-repeat;*/ 
@@ -24,7 +24,11 @@
 }
 
 .head{
-    background-color: red;
+    background-color: green;
+}
+
+.snake{
+    background-color: yellow;
 }
 
 .food{
