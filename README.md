@@ -2,4 +2,4 @@
 
 This is a simple Snakegame coded in JS
 
-For backend, i 
+For backend, i had 
