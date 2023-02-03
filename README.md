@@ -2,4 +2,4 @@
 
 This is a simple Snakegame coded in JS
 
-For 
+For back
